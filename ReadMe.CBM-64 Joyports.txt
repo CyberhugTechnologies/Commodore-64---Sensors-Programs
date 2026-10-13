@@ -5,7 +5,7 @@ Due to the way port 1 conflicts with keyboard input on the CIA chip, most progra
 =================================================================================================================================
 
 
-1 Up
+1    Up
 2	Down
 3	Left / Paddle Fire
 4	Right / Paddle Fire
