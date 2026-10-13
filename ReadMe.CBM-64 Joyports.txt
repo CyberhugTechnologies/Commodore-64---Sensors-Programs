@@ -17,7 +17,7 @@ Due to the way port 1 conflicts with keyboard input on the CIA chip, most progra
 
 =================================================================================================================================
 
-Reading Both Joysticks Program: 
+Reading <Both> Joysticks Program: 
 
 10 j1=not(peek(56321)):j2=not(peek(56320))
 20 print "{clear}"
@@ -34,3 +34,4 @@ Reading Both Joysticks Program:
 130 if (j1 and 16)then print "j1 Q ";
 140 if (j2 and 16)then print "j2 Q ";
 150 goto 10
+
