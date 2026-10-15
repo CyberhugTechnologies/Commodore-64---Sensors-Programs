@@ -1,6 +1,6 @@
- There are two addresses to read joystick values, one for each control port. Joystick 1 is read at address 56321, and joystick 2 with 56320.
+There are two addresses to read joystick values, one for each control port. Joystick 1 is read at address 56321, and joystick 2 with 56320.
 
-Due to the way port 1 conflicts with keyboard input on the CIA chip, most programmers have traditionally prefer port 2.	
+Due to the way port 1 conflicts with keyboard input on the CIA chip, most programmers prefer port 2.	
 
 =================================================================================================================================
 
